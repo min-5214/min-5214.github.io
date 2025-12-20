@@ -2,9 +2,8 @@
 layout: default
 ---
 # Welcome to My Website
-Hello there! I'm documenting my intensive 5-week winter journey into **Neural Networks** and **Math-to-Text LLM Optimization**.
-
-I am currently working as an undergraduate research intern while simultaneously taking a graduate-level course on Deep Learning.
+Hello there! Welcome to my site! 
+I am currently in a winter semester working as an undergraduate research intern while taking a course on Neural Networks.
 
 ## 2025-Winter Semester Timeline
 
