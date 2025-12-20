@@ -7,7 +7,7 @@ I am currently in a winter semester working as an undergraduate research intern 
 
 ## 2025-Winter Semester Timeline
 
-### [Week 1: Foundations & Computer Vision]({% post_url 2025-12-21-week-1-1 %})
+### [Week 1: Foundations & Computer Vision]({% _posts/2025-12-21-week-1-1.md %})
 * **Goal:** Environment setup and CNNs.
 * **Internship:** Introduction to the program and assignment specifications.
 * **Status:** In Progress
