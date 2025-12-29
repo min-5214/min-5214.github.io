@@ -5,7 +5,9 @@ layout: default
 Hello there! Welcome to my site! My name is Minsoo Im.
 I am currently in a winter semester working as an undergraduate research intern while taking a course on Neural Networks.
 [Check out my GitHub Profile](https://github.com/min-5214)
+
 ---
+
 ## My Posts
 <ul>
   {% for post in site.posts %}
